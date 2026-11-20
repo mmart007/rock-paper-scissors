@@ -1,0 +1,20 @@
+*{
+    text-align: center;
+}
+
+#scoreboard {
+    display: flex;
+    gap: 32px;
+    justify-content: center;
+}
+.score {
+    width: 90px;
+    border: 1px solid grey;
+    text-align: center;
+}
+
+.scoreboard h2 {
+    font-size: 60px;
+    font-weight: 900;
+    padding: 0;
+}
